@@ -75,11 +75,19 @@ nmap -sU 192.168.1.14  # UDP сканирование
 
 ![image](https://github.com/sharvik22/13-01.md/assets/136818757/c4dca5bb-9c53-4f13-a0e2-5e63a1942f07)
 
+![image](https://github.com/sharvik22/13-01.md/assets/136818757/b06272ad-8695-4bde-a9c9-19f170f71c60)
+
 ![image](https://github.com/sharvik22/13-01.md/assets/136818757/e7429974-8d15-4e83-a568-7ae32a554c37)
+
+![image](https://github.com/sharvik22/13-01.md/assets/136818757/31cd49a4-b965-4632-8c26-51e843e140ac)
 
 ![image](https://github.com/sharvik22/13-01.md/assets/136818757/b36351be-02e6-41fc-afad-434703ebb006)
 
+![image](https://github.com/sharvik22/13-01.md/assets/136818757/4eddca51-d33e-46d1-9f36-b3e56b8769ad)
+
 ![image](https://github.com/sharvik22/13-01.md/assets/136818757/0ab47c8f-eeec-4a11-9909-c2005b49d6e5)
+
+![image](https://github.com/sharvik22/13-01.md/assets/136818757/e733474f-81b5-4f7a-bede-c6d1ad81d18a)
 
 Чем отличаются эти режимы сканирования с точки зрения сетевого трафика?
 Режимы сканирования SYN, FIN, Xmas и UDP отличаются друг от друга в том, как они взаимодействуют с целевым устройством и какие пакеты они отправляют. 
