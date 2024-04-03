@@ -24,6 +24,7 @@
 
 ### Решение 1
 VM Metasploitable
+
 ![image](https://github.com/sharvik22/13-01.md/assets/136818757/62c1fabd-b79b-4551-b3b9-e2ea9b375e0e)
 
 Просканируйте эту виртуальную машину, используя **nmap**
