@@ -44,6 +44,8 @@ VM Metasploitable
 
 2) список уязвимостей:
 
+По версии уязвимости сетевой службы есть только одна служба
+
 https://www.exploit-db.com/exploits/49757
 
   
