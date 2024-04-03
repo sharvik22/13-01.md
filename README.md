@@ -68,10 +68,10 @@ https://www.exploit-db.com/exploits/49757
 
 Команды для сканирования:
 
-nmap -sS 192.168.1.14  # SYN сканирование
-nmap -sF 192.168.1.14  # FIN сканирование
-nmap -sX 192.168.1.14  # Xmas сканирование
-nmap -sU 192.168.1.14  # UDP сканирование
+* nmap -sS 192.168.1.14  # SYN сканирование
+* nmap -sF 192.168.1.14  # FIN сканирование
+* nmap -sX 192.168.1.14  # Xmas сканирование
+* nmap -sU 192.168.1.14  # UDP сканирование
 
 
 ![image](https://github.com/sharvik22/13-01.md/assets/136818757/c4dca5bb-9c53-4f13-a0e2-5e63a1942f07)
