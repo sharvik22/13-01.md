@@ -38,11 +38,12 @@ VM Metasploitable
 Ответ
 
 1)nmap -sT 192.168.1.14
-перечень сетевых служб
+перечень сетевых служб:
 
 ![image](https://github.com/sharvik22/13-01.md/assets/136818757/13c9b08a-fb65-45aa-9444-4998d28ef8c5)
 
-2) https://www.exploit-db.com/exploits/49757
+2)список уязвимостей:
+https://www.exploit-db.com/exploits/49757
 
   
 
