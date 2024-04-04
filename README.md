@@ -71,9 +71,52 @@ https://www.exploit-db.com/exploits/49757
 Команды для сканирования:
 
 * nmap -sS 192.168.1.14  # SYN сканирование
+
+![image](https://github.com/sharvik22/13-01.md/assets/136818757/29dcee03-5399-4006-bc5c-96f5fe79d51a)
+
+![image](https://github.com/sharvik22/13-01.md/assets/136818757/b9935d2b-c79c-4559-a8da-09e7e353d0dc)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 * nmap -sF 192.168.1.14  # FIN сканирование
 * nmap -sX 192.168.1.14  # Xmas сканирование
 * nmap -sU 192.168.1.14  # UDP сканирование
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ![image](https://github.com/sharvik22/13-01.md/assets/136818757/c4dca5bb-9c53-4f13-a0e2-5e63a1942f07)
