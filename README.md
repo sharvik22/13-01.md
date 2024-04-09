@@ -43,15 +43,16 @@ VM Metasploitable
 ![image](https://github.com/sharvik22/13-01.md/assets/136818757/13c9b08a-fb65-45aa-9444-4998d28ef8c5)
 
 2) список уязвимостей:
-на данной машине практически все сетевые службы открыты, пробиваются командой nmap и telnet, что не очень безопасно
+На данной машине практически все сетевые службы открыты, порты пробиваются командой nmap и telnet, что не ОЧЕНЬ безопасно.
 
 Список уязвимостей сетевый служб:
 
 https://www.exploit-db.com/exploits/49757
+https://www.exploit-db.com/exploits/30020
+https://www.exploit-db.com/exploits/29724
+https://www.exploit-db.com/exploits/16851
 
 
-
-  
 
 ---
 
